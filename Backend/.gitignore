@@ -1,0 +1,5 @@
+# Dependensi Node.js
+/node_modules
+
+# File Lingkungan Sensitif
+.env
